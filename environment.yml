@@ -10,8 +10,8 @@ dependencies:
   - blas=1.0=mkl
   - bleach=3.1.0=py37_0
   - bzip2=1.0.8=h7b6447c_0
-  - ca-certificates=2019.9.11=hecc5488_0
-  - certifi=2019.9.11=py37_0
+  - ca-certificates=2019.5.15=1
+  - certifi=2019.6.16=py37_1
   - cffi=1.12.3=py37h2e261b9_0
   - chardet=3.0.4=py37_1003
   - conda=4.7.12=py37_0
@@ -71,11 +71,12 @@ dependencies:
   - nbconvert=5.5.0=py_0
   - nbformat=4.4.0=py37_0
   - ncurses=6.1=he6710b0_1
+  - networkx=2.3=py_0
   - nltk=3.4.5=py37_0
   - notebook=6.0.1=py37_0
   - numpy=1.16.5=py37h7e9f1db_0
   - numpy-base=1.16.5=py37hde5b4d6_0
-  - openssl=1.1.1c=h516909a_0
+  - openssl=1.1.1d=h7b6447c_1
   - pandas=0.25.1=py37he6710b0_0
   - pandoc=2.2.3.2=0
   - pandocfilters=1.4.2=py37_1
